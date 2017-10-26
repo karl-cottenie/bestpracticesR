@@ -66,6 +66,8 @@
   * `# ** Subheading 1.1 ----------`
     * `# *** subsub heading 1.1.1 -------------`
 * any command line with 4 trailing dashes (-) , equal signs (=), or pound signs (#)
+* you can add more trailing dashes to help subdivide your code visually
+* I start the headings with different `*` because this will indent the subheadings, and if you convert it to some Markdown version that will make the transition easier.
 * you can fold the code to hide lines that you are not working on
 * to navigate between code sections, use “Jump To” menu available at bottom of the editor
 

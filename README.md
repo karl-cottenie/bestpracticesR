@@ -8,7 +8,7 @@
 * one folder per project = one contained unit
   * definition of “contained unit” depends on your project, style, requirements
 * make sure that this is your working directory in R/R Studio
-* [Examples of folder structures to use](http://nicercode.github.io/blog/2013-04-05-projects)
+* Examples of folder structures to use [http://nicercode.github.io/blog/2013-04-05-projects]
 ### R/
 * contains analysis script
  * often used functions (potentially in different function script file)
@@ -17,7 +17,7 @@
  * sometimes also excel file
  * read.csv(“../data/  “   ) with tab completion to import data file
 ### doc/
-* data management (http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf)
+* data management [http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf]
 * data creation
   * data description = meta-data
   * data process (potentially in addition to analysis file)
@@ -39,23 +39,23 @@
 * try to avoid going back to a spreadsheet to process the data
    * one exception: if errors are detected during data processing
 * e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
-		* spacing
-		* commenting
-			* why you do something
-			* how you do it
-			* todo’s
-			* data process decisions
-			* Structure in your code (see code hierarchy below)
-		* attach: avoid using it
-		* use common sense and BE CONSISTENT
+  * spacing
+  * commenting
+  * why you do something
+  * how you do it
+  * todo’s
+  * data process decisions
+  * Structure in your code (see code hierarchy below)
+* attach: avoid using it
+* use common sense and BE CONSISTENT
 
 ## R - studio
 * 4 standard windows
-* script file = all the necessary code
-* should be able to run line-by-line to repeat whole analysis
-* console = output
-* try code, but if final solution
-		* copy-paste to script file
+  * script file = all the necessary code
+   * should be able to run line-by-line to repeat whole analysis
+  * console = output
+   * try code, but if final solution
+ * copy-paste to script file
 		* or use history window
 * tab completion => you can use descriptive (longer) file names
 * soft-wrap R source files (preferences > Code editing) => no need to scroll left-right

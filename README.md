@@ -4,11 +4,11 @@
 
 ![humor](http://imgs.xkcd.com/comics/code_quality.png)
 
-## Setting up folder structure
+## Setting up your folder structure
 * one folder per project = one contained unit
   * definition of “contained unit” depends on your project, style, requirements
 * make sure that this is your working directory in R/R Studio
-* [folder structure](http://nicercode.github.io/blog/2013-04-05-projects)
+* [Examples of folder structures to use](http://nicercode.github.io/blog/2013-04-05-projects)
 ### R/
 * contains analysis script
  * often used functions (potentially in different function script file)
@@ -33,7 +33,7 @@
 ## R style guide
 * script file = where everything happens
   * plain text => readable by anybody
-		 * easy to save
+		* easy to save
  	 * easy to repeat
   	* easy to document
 * try to avoid going back to a spreadsheet to process the data

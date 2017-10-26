@@ -33,12 +33,12 @@
 ## R style guide
 * script file = where everything happens
   * plain text => readable by anybody
-		* easy to save
- 	 * easy to repeat
-  	* easy to document
+	* easy to save
+  * easy to repeat
+  * easy to document
 * try to avoid going back to a spreadsheet to process the data
    * one exception: if errors are detected during data processing
-* e.g. from Google https://google.github.io/styleguide/Rguide.xml, some points from that guide
+* e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
 		* spacing
 		* commenting
 			* why you do something

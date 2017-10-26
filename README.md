@@ -12,11 +12,13 @@
 ### R/
 * contains analysis script
  * often used functions (potentially in different function script file)
+* if you open R/RStudio by double-clicking on the script file in your file explorer, this will also automatically set the working directory to this location, and all your file names will be relative to this location. 
+
 ### data/
  * data in .csv file
  * sometimes also excel file
  * data organization [http://kbroman.org/dataorg/]
- * read_csv(“../data/  “   ) with tab completion to import data file
+ * read_csv(“../data/  “   ) with tab completion to import data file (if the working directory is set to this folder)
  	* if YYYY-MM-DD format, import will convert it into a DateTime object automatically
 ### doc/
 * data management [http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf]

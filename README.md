@@ -62,9 +62,9 @@
 
 ### code hierarchy and sections
 
-* # * Heading 1 --------
-  * # ** Subheading 1.1 ----------
-    * # *** subsub heading 1.1.1 -------------
+* `# * Heading 1 --------`
+  * `# ** Subheading 1.1 ----------`
+    * `# *** subsub heading 1.1.1 -------------`
 * any command line with 4 trailing dashes (-) , equal signs (=), or pound signs (#)
 * you can fold the code to hide lines that you are not working on
 * to navigate between code sections, use “Jump To” menu available at bottom of the editor

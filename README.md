@@ -33,19 +33,19 @@
 ## R style guide
 * script file = where everything happens
   * plain text => readable by anybody
-	* easy to save
+  * easy to save
   * easy to repeat
   * easy to document
-* try to avoid going back to a spreadsheet to process the data
+  * try to avoid going back to a spreadsheet to process the data
    * one exception: if errors are detected during data processing
 * e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
   * spacing
   * commenting
-  * why you do something
-  * how you do it
-  * todo’s
-  * data process decisions
-  * Structure in your code (see code hierarchy below)
+    * why you do something
+    * how you do it
+    * todo’s
+    * data process decisions
+    * Structure in your code (see code hierarchy below)
 * attach: avoid using it
 * use common sense and BE CONSISTENT
 
@@ -59,32 +59,21 @@
 		* or use history window
 * tab completion => you can use descriptive (longer) file names
 * soft-wrap R source files (preferences > Code editing) => no need to scroll left-right
+
 ### code hierarchy and sections
-if long script file
-# * Heading 1 --------
-# ** Subheading 1.1 ----------
-# ** subsub heading 1.1.1 -------------
-any command line with 4 trailing dashes (-) , equal signs (=), or pound signs (#)
-you can fold the code to hide lines that you are not working on
-to navigate between code sections, use “Jump To” menu available at bottom of the editor
-R packages
-6000+ packages
-chances are if you want to do something, somebody else already created a package for it
-do not reinvent the wheel
-but how do you find the function?
-google
-each function has
-“See Also”
-“Examples”
-put “library(XXX)” in your script file
-Color choices
-“viridis” package: perceptually uniform, robust to colorblindness and b/w printing
-Ultimate goal
-create zip file of your project folder
-send it to somebody else
-naive intelligent observer should be able to
-repeat the whole analysis
-understand every step of the way
+
+* # * Heading 1 --------
+  * # ** Subheading 1.1 ----------
+    * # ** subsub heading 1.1.1 -------------
+* any command line with 4 trailing dashes (-) , equal signs (=), or pound signs (#)
+* you can fold the code to hide lines that you are not working on
+* to navigate between code sections, use “Jump To” menu available at bottom of the editor
+
+## Ultimate goal
+* create zip file of your project folder
+* send it to somebody else
+* naive intelligent observer should be able to repeat the whole analysis
+* understand every step of the way
 
 
-http://imgs.xkcd.com/comics/code_quality_2.png
+![humor](http://imgs.xkcd.com/comics/code_quality_2.png)

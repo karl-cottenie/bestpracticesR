@@ -12,10 +12,12 @@
 ### R/
 * contains analysis script
  * often used functions (potentially in different function script file)
-* data/
+### data/
  * data in .csv file
  * sometimes also excel file
- * read.csv(“../data/  “   ) with tab completion to import data file
+ * data organization [http://kbroman.org/dataorg/]
+ * read_csv(“../data/  “   ) with tab completion to import data file
+ 	* if YYYY-MM-DD format, import will convert it into a DateTime object automatically
 ### doc/
 * data management [http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf]
 * data creation

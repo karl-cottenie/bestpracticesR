@@ -8,7 +8,7 @@
 * one folder per project = one contained unit
   * definition of “contained unit” depends on your project, style, requirements
 * make sure that this is your working directory in R/R Studio
-* Examples of folder structures to use [http://nicercode.github.io/blog/2013-04-05-projects]
+* examples of folder structures to use [http://nicercode.github.io/blog/2013-04-05-projects]
 ### R/
 * contains analysis script
  * often used functions (potentially in different function script file)
@@ -54,6 +54,9 @@
 * use common sense and BE CONSISTENT
 
 ## R - studio
+
+### Set up
+
 * 4 standard windows
   * script file = all the necessary code
     * should be able to run line-by-line to repeat whole analysis
@@ -64,7 +67,7 @@
 * tab completion => you can use descriptive (longer) file names
 * soft-wrap R source files (preferences > Code editing) => no need to scroll left-right
 
-### code hierarchy and sections
+### Code hierarchy and sections
 
 * `# Heading 1 --------`
   * `## Subheading 1.1 ----------`

@@ -56,11 +56,11 @@
 ## R - studio
 * 4 standard windows
   * script file = all the necessary code
-   * should be able to run line-by-line to repeat whole analysis
-  * console = output
-   * try code, but if final solution
-   * copy-paste to script file
-   * or use history window
+    * should be able to run line-by-line to repeat whole analysis
+    * console = output
+    * try code, but if final solution
+      * copy-paste to script file
+      * or use history window
 * tab completion => you can use descriptive (longer) file names
 * soft-wrap R source files (preferences > Code editing) => no need to scroll left-right
 

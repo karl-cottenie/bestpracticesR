@@ -86,3 +86,6 @@
 
 
 ![humor](http://imgs.xkcd.com/comics/code_quality_2.png)
+
+# What's next?
+http://r4ds.had.co.nz/

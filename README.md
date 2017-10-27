@@ -91,6 +91,13 @@
 
 The best introduction to data analysis with R. This online, free, continuously updated, book makes all our jobs of guiding people through their first (or 6th) steps using R. Very highly recommended!
 
-**R for Data Science**
+## R for Data Science**
 
 http://r4ds.had.co.nz/
+
+## Usefull cheat sheets
+
+https://www.rstudio.com/resources/cheatsheets/ 
+
+And you can sign up to receive updates to these sheets!
+

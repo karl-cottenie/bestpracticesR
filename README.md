@@ -88,4 +88,9 @@
 ![humor](http://imgs.xkcd.com/comics/code_quality_2.png)
 
 # What's next?
+
+The best introduction to data analysis with R. This online, free, continuously updated, book makes all our jobs of guiding people through their first (or 6th) steps using R. Very highly recommended!
+
+**R for Data Science**
+
 http://r4ds.had.co.nz/

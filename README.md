@@ -101,3 +101,4 @@ https://www.rstudio.com/resources/cheatsheets/
 
 And you can sign up to receive updates to these sheets!
 
+http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf

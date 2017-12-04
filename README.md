@@ -101,4 +101,6 @@ https://www.rstudio.com/resources/cheatsheets/
 
 And you can sign up to receive updates to these sheets!
 
+## British Ecological Society's Guide to Reproducible Code in Ecology and Evolution
+
 http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf

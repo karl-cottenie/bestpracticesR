@@ -45,11 +45,14 @@
 * e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
   * spacing
   * commenting
-    * why you do something
-    * how you do it
-    * todo’s
-    * data process decisions
-    * Structure in your code (see code hierarchy below)
+    * Coding explanations (#, often after the code, but not exclusively)
+	   * Code organization, see examples below (## XXXXX -----)
+	   * Justification for a section of code ## XXX
+	   * Dead end analyses because it did not work, or not pursuing this line of inquiry (but leave it in as a trace of it, to potentially solve this issue, or avoid making the same mistake in the future # (>_<) 
+	   * Solutions/results/interpretations (#==> XXX)
+	   * Reference to manuscript pieces, figures, results, tables, ... # (\*_\*)
+	   * TODO items #TODO
+* names for data frames (dfName), for lists (lsName), for vectors (vcName) (Thanks Jacqueline May)
 * attach: avoid using it
 * use common sense and BE CONSISTENT
 

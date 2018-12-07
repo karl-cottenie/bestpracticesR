@@ -73,8 +73,8 @@
 ### Code hierarchy and sections
 
 * `_ Heading 1 --------`
-  * `__ Subheading 1.1 ----------`
-    * `___ subsub heading 1.1.1 -------------`
+* `__ Subheading 1.1 ----------`
+* `___ subsub heading 1.1.1 -------------`
 * any comment line with 4 trailing dashes (-) , equal signs (=), or pound signs (#)
 * you can add more trailing dashes to help subdivide your code visually
 * I start the headings with different `_` because this will indent the subheadings, and if you convert it to some Markdown version that will make the transition easier (Thank you Brent for that tip).

@@ -52,7 +52,7 @@
 	   * Solutions/results/interpretations (#==> XXX)
 	   * Reference to manuscript pieces, figures, results, tables, ... # (\*_\*)
 	   * TODO items #TODO
-* names for data frames (dfName), for lists (lsName), for vectors (vcName) (Thanks Jacqueline May)
+* names for data frames (df_name), for lists (ls_name), for vectors (vc_name) (Thanks Jacqueline May)
 * attach: avoid using it
 * use common sense and BE CONSISTENT
 

@@ -26,6 +26,7 @@
   * data description = meta-data
   * data process (potentially in addition to analysis file)
 * report(s) to share with collaborators/advisors
+* [http://ecoevoevoeco.blogspot.com/2021/12/guidelines-for-archiving-data-and-code.html]
 ### figs/
 * important figures
 * sharing with collaborators/advisors

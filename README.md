@@ -44,14 +44,16 @@
    * one exception: if errors are detected during data processing
 * e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
   * spacing
-  * commenting
+  * commenting [https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/]
+    * Rule 1: Comments should not duplicate code
+    * Rule 2: Good comments do not excuse unclear code
     * Coding explanations (#, often after the code, but not exclusively)
-	   * Code organization, see examples below (## XXXXX -----)
-	   * Justification for a section of code ## XXX
-	   * Dead end analyses because it did not work, or not pursuing this line of inquiry (but leave it in as a trace of it, to potentially solve this issue, or avoid making the same mistake in the future # (>_<) 
-	   * Solutions/results/interpretations (#==> XXX)
+	   * Code organization, see examples below (Rule 4) (## XXXXX -----)
+	   * Justification for a section of code, including links (Rules 6 and 7) ## XXX
+	   * Dead end analyses because it did not work, or not pursuing this line of inquiry (but leave it in as a trace of it, to potentially solve this issue, or avoid making the same mistake in the future (Rule 8) # (>_<) 
+	   * Solutions/results/interpretations (Rule 7) (#==> XXX)
 	   * Reference to manuscript pieces, figures, results, tables, ... # (\*_\*)
-	   * TODO items #TODO
+	   * TODO items (Rule 9) #TODO
 * names for data frames (df_name), for lists (ls_name), for vectors (vc_name) (Thanks Jacqueline May)
 * attach: avoid using it
 * use common sense and BE CONSISTENT

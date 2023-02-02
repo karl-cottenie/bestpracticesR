@@ -44,6 +44,7 @@
   * try to avoid going back to a spreadsheet to process the data
    * one exception: if errors are detected during data processing
 * e.g. from Google [https://google.github.io/styleguide/Rguide.xml], some points from that guide
+  * applying a style guide automatically [https://www.tidyverse.org/blog/2017/12/styler-1.0.0/]
   * spacing
   * commenting [https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/]
     * Rule 1: Comments should not duplicate code
